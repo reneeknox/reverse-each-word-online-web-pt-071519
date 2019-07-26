@@ -27,3 +27,4 @@ def reverse_each_word_with_each(string)
   end
   new_array.join(" ")
 end
+# that makes way more sense to me now!!! 
