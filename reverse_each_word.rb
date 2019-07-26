@@ -27,4 +27,4 @@ def reverse_each_word_with_each(string)
   end
   new_array.join(" ")
 end
-# that makes way more sense to me now!!! 
+# that makes way more sense to me now!!! I technically used the same block but needed def twice! I was trying to use it once earlier, but it wouldn't work that way! I also needed to effectively end each action correctly.
